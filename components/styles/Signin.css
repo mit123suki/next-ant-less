@@ -1,0 +1,5 @@
+.component {
+  max-width: 800px;
+  z-index: 1;
+  min-width: 300px;
+}
